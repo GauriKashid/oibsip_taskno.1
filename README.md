@@ -1,5 +1,5 @@
 # oibsip_taskno.1
-Task no 1  BMI Calculater with following features
+Task no 1 :- BMI Calculater with following features
 
 
 1.GUI :- It provides easy control panel to project which gives great accessibility to user
